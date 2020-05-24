@@ -4,6 +4,8 @@ This guide serves as a step by step process for setting up and validating the `A
 
 ## Install
 
+Make sure to follow these steps inside your `dev` Anaconda environment.
+
 In order for the `alpaca-trade-api` package to install and run properly, all of the dependencies must be satisfied. The dependencies list can be found below for reference.
 
 * Pandas
